@@ -1,4 +1,4 @@
-# musicfree-plugins
+# musicfree-plugins   
 
 MusicFree 插件订阅仓库（57 个插件）+ 洛雪（LX Music）自定义源发布仓库，两个生态相互独立。
 
