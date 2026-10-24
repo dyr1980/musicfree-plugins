@@ -3,18 +3,13 @@
   "plugins": [
     {
       "name": "QQ音乐",
-<<<<<<< HEAD
-      "url": "https://js.jiangss.shop/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/plugins/qq-source.plugin.v1.9.24.js",
-      "version": "1.9.24"
-=======
       "url": "https://js.jiangss.shop/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/plugins/qq-source.plugin.v1.9.25.js",
       "version": "1.9.25"
->>>>>>> 209a6e5 (update plugins)
     },
     {
       "name": "酷我音乐",
-      "url": "https://js.jiangss.shop/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/plugins/kuwo-source.plugin.v1.9.20.js",
-      "version": "1.9.20"
+      "url": "https://js.jiangss.shop/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/plugins/kuwo-source.plugin.v1.9.22.js",
+      "version": "1.9.22"
     },
     {
       "name": "酷狗音乐",
@@ -28,8 +23,8 @@
     },
     {
       "name": "网易云音乐",
-      "url": "https://js.jiangss.shop/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/plugins/netease-source.plugin.v1.9.22.js",
-      "version": "1.9.22"
+      "url": "https://js.jiangss.shop/https://raw.githubusercontent.com/hebijunge/musicfree-plugins/master/plugins/netease-source.plugin.v1.9.24.js",
+      "version": "1.9.24"
     },
     {
       "name": "汽水音乐",
